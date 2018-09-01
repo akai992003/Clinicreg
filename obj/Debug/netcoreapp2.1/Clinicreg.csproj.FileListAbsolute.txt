@@ -1,0 +1,14 @@
+/Users/chukaisu/sample/Clinicreg/bin/Debug/netcoreapp2.1/Clinicreg.deps.json
+/Users/chukaisu/sample/Clinicreg/bin/Debug/netcoreapp2.1/Clinicreg.runtimeconfig.json
+/Users/chukaisu/sample/Clinicreg/bin/Debug/netcoreapp2.1/Clinicreg.runtimeconfig.dev.json
+/Users/chukaisu/sample/Clinicreg/bin/Debug/netcoreapp2.1/Clinicreg.dll
+/Users/chukaisu/sample/Clinicreg/bin/Debug/netcoreapp2.1/Clinicreg.pdb
+/Users/chukaisu/sample/Clinicreg/obj/Debug/netcoreapp2.1/Clinicreg.csprojAssemblyReference.cache
+/Users/chukaisu/sample/Clinicreg/obj/Debug/netcoreapp2.1/Clinicreg.csproj.CoreCompileInputs.cache
+/Users/chukaisu/sample/Clinicreg/obj/Debug/netcoreapp2.1/Clinicreg.RazorAssemblyInfo.cache
+/Users/chukaisu/sample/Clinicreg/obj/Debug/netcoreapp2.1/Clinicreg.RazorAssemblyInfo.cs
+/Users/chukaisu/sample/Clinicreg/obj/Debug/netcoreapp2.1/Clinicreg.AssemblyInfoInputs.cache
+/Users/chukaisu/sample/Clinicreg/obj/Debug/netcoreapp2.1/Clinicreg.AssemblyInfo.cs
+/Users/chukaisu/sample/Clinicreg/obj/Debug/netcoreapp2.1/Clinicreg.RazorTargetAssemblyInfo.cache
+/Users/chukaisu/sample/Clinicreg/obj/Debug/netcoreapp2.1/Clinicreg.dll
+/Users/chukaisu/sample/Clinicreg/obj/Debug/netcoreapp2.1/Clinicreg.pdb
